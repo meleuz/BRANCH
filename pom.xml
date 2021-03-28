@@ -54,7 +54,7 @@
                         <configuration>
                             <rules>
                                 <rule>
-                                    <element>PACKAGE</element>
+                                    <!--                            <element>StatisticsService</element>-->
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
